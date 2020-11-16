@@ -67,7 +67,7 @@ and lispCar calls (λm.λn.m) aka true on its param,
 and lispCdr calls (λm.λn.n) aka false on its param,
 so if you want a function that just stores some literal value v and doesnt make any constraints
 then you could use (λg.λh.λi.igh)v(any function that infinite loops for all possible params).
-BUT if some other function (func santaConstraint) is included which does not allow any 2 functions to exist
+BUT (imagine Murphy's Law in action) if some other function (func santaConstraint) is included which does not allow any 2 functions to exist
 where one of them has the literal value "santa claus exists" (func santaTrue)
 and the other one has the literal value "santa claus does not exist" (func santaFalse),
 then the 3 funcs santaConstraint, santaTrue, and santaFalse cant all exist at once (or are gradually repelled by energy func),
