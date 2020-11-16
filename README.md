@@ -137,6 +137,6 @@ package immutable.occamsgametheory;
 
 ...
 
-Like Murphys Law aka "Anything that can go wrong will go wrong", the Mathematical Universe Hypothesis aka https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis approx says "Anything that can happen did, does, or will happen", but I would add "happens exactly once" in the context of for example a bose condensate is a blob of very cold "particles" (whatever those are) which together have less energy than the powerset of their possible statistically independent actions among eachother (colder things have exponentially less possible states together, see boltzmann math).
+Like Murphys Law aka "Anything that can go wrong will go wrong", the Mathematical Universe Hypothesis aka https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis approx says "Anything that can happen (any set of axioms which never contradict eachother) did, does, or will happen", but I would add "happens exactly once" in the context of for example a bose condensate is a blob of very cold "particles" (whatever those are) which together have less energy than the powerset of their possible statistically independent actions among eachother (colder things have exponentially less possible states together, see boltzmann math).
 
 
